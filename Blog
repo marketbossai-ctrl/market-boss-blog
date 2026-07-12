@@ -1,0 +1,18 @@
+market-boss-blog/
+   ├── _data/
+   │   └── blog-data.json
+   ├── assets/css/
+   │   └── blog.css
+   ├── src/
+   │   ├── _layouts/
+   │   │   ├── base.html
+   │   │   └── blog-post.html
+   │   ├── blog/
+   │   │   ├── index.html
+   │   │   └── posts.js
+   ├── .eleventy.js
+   ├── netlify.toml
+   ├── package.json
+   ├── BLOG-AGENT-GUIDE.md
+   ├── ARTICLE-GENERATION-PROMPT.md
+   └── BLOG-SYSTEM-README.md
